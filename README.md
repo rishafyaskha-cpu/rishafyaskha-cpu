@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
@@ -37,27 +37,30 @@ Here are some ideas to get you started:
 =====================================================================
 -->
 
-<!-- ============ ANIMATED HEADER ============ -->
+<!--============ ANIMATED HEADER ============ 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:bf5af2,100:e040fb&height=260&section=header&text=YOUR_NAME&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer&descSize=24&descAlignY=62" alt="YOUR_NAME" />
+  <a href="https://github.com/rishafyaskha-cpu">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:bf5af2,100:e040fb&height=260&section=header&text=YOUR_NAME&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descSize=24&descAlignY=62" alt="YOUR_NAME" />
+  </a>
+</p>
+-->
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
+  <a href="https://github.com/rishafyaskha-cpu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rishafy+%F0%9F%91%8B;Front-end+Developer;Python+%26+TypeScript+Enthusiast;Building+scalable+web+applications;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ============ TYPING ANIMATION ============ -->
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Full-stack+Developer;Python+%26+TypeScript+Enthusiast;Building+scalable+web+applications;Always+learning+something+new" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<br><br>
 
 <!-- ============ SOCIAL LINKS ============ -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" /></a>
+  <a href="https://github.com/rishafyaskha-cpu"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/rishafy_studios"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://x.com/rishafy_askha"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" /></a>
   <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="mailto:rishafyaskha@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
 <!-- ============ QUICK STATS BADGES ============ -->
@@ -74,14 +77,14 @@ Here are some ideas to get you started:
 
 ```ts
 const developer = {
-  name:       "YOUR_NAME",
-  role:       "Full-stack Developer",
+  name:       "Rishafy Askha Septama",
+  role:       "Front-end Developer",
   languages:  ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
-  frameworks: ["React", "Next.js", "Node.js"],
+  frameworks: ["React", "Next.js", "Node.js", "Laravel"],
   devops:     ["Docker", "Kubernetes", "Git", "Linux"],
   focus:      "Building fast, scalable & clean web applications",
   learning:   "Cloud-native architecture & system design",
-  funFact:    "I debug faster at 2 AM ☕"
+  funFact:    "not found"
 };
 ```
 
@@ -110,7 +113,7 @@ const developer = {
 
 ---
 
-<!-- ============ FEATURED PROJECTS ============ -->
+<!-- ============ FEATURED PROJECTS ============ 
 <h2 align="center">📌 Featured Projects</h2>
 
 <p align="center">
@@ -133,7 +136,7 @@ const developer = {
 
 ---
 
-<!-- ============ GITHUB STATS ============ -->
+<!-- ============ GITHUB STATS ============ 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -147,7 +150,7 @@ const developer = {
 
 ---
 
-<!-- ============ ACTIVITY GRAPH ============ -->
+<!-- ============ ACTIVITY GRAPH ============ 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <!--
@@ -156,7 +159,7 @@ const developer = {
   aktif. Kalau suatu saat ikut mati, dua opsi:
     1) Ganti domain ke  github-readme-activity-graph.vercel.app  (kalau sudah normal)
     2) Self-host: fork github.com/Ashutosh00710/github-readme-activity-graph -> deploy ke Vercel kamu
--->
+
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://githubactivitygraph.vercel.app/graph?username=YOUR_USERNAME&bg_color=010409&color=c9d1d9&line=00f0ff&point=bf5af2&area_color=e040fb&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
@@ -164,13 +167,13 @@ const developer = {
 </p>
 
 <p align="center">
-  <!-- Kartu cadangan (selalu stabil) yang menampilkan ringkasan kontribusi -->
+  <!-- Kartu cadangan (selalu stabil) yang menampilkan ringkasan kontribusi 
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark&bg_color=010409&animation=fadeIn" alt="Profile Details" />
 </p>
 
 ---
 
-<!-- ============ SNAKE ANIMATION ============ -->
+<!-- ============ SNAKE ANIMATION ============ 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -233,7 +236,7 @@ jobs:
 
 ---
 
-<!-- ============ FUN / INTERACTIVE ============ -->
+<!-- ============ FUN / INTERACTIVE ============ 
 <h2 align="center">🎲 A Little Fun</h2>
 
 <p align="center">
