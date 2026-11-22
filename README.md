@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/rishafyaskha-cpu"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/rishafy_studios"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://x.com/rishafy_askha"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" /></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram" /></a>
+  <a href="https://instagram.com/rishafy_askha"><img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram" /></a>
   <a href="mailto:rishafyaskha@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
